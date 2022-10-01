@@ -4,10 +4,11 @@ Gamermarkt web sitesi uzerinde satisa konulmus Valorant ve Leauge of Legends hes
 ### Guvenlik
 Python gibi acik kaynakli bir yazilim dilinde lisans anahtarli ve musteriye hizmet eden boyle bir proje yapmak ne kadar etik dusunmek size kalmis, ancak boyle buyuk bir projenin kaynak kodunu paylasmak istemedigim, riske atmak istemedigim icin satin alimlar disinda herhangi bir paylasimda bulunmama karari aldim. Eger herhangi bir sekilde kaynak kodunu koruma yolunu bildigini dusunen, aklinda bir fikir olan var ise memnuniyet ile benimle iletisime gecebilir. O zamana kadar yalnizca satin alimlarda kurulum sonrasinda kaynak kodlari obfuscate edilerek iletilmektedir.  ( Cython, pyinstaller, py2exe gibi turlu yollar test edildi, aradigim yol daha cok kaynak kodunu bir cloud'dan getirebilmek. )
 
-#### Video
+### Video
 
-Asagida bulunan Youtube videosunda programin tamaminin detayli aciklamasini ve anlatimini bulabilirsiniz, yine de vakti olmayanlar icin burada da ustun koru bir anlatim yapacagim.
-#Youtube Link
+Asagida bulunan Youtube videosunda programin tamaminin detayli aciklamasini ve anlatimini bulabilirsiniz, yine de vakti olmayanlar icin burada da ustun koru bir anlatim yapacagim
+###Youtube Link
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_zK45wOoUIhq
 " target="_blank"><img src="https://i.hizliresim.com/b2unlzn.jpg" 
 alt="YouTube Link" width="450" height="281" /></a>
