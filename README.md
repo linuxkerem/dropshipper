@@ -34,3 +34,13 @@ Kisaca islevlerinden bahsetmek gerekirse;
 - Gamermarktan veri cek fonksiyonu kisaca ilanlar sayfasina giris yapar, belirlenen filtrelemelere gore belirli ilanlari bulur ve tek tek ilanlari scrape etmeye baslar. Resimleri cek secenegi aktif ise skinlerin ( Leauge Of Legends'da Sampiyonlarin screenshot'u da aliniyor) screenshotunu cekip hizliresim.com'a yukledikten sonra url'i kopyalayip diger ilan ile devam eder ( Eger herhangi bir resim 20 MB'dan daha yuksek boyuta sahipse iki tane sikistirma fonksiyonu resimin boyutunu kucultmektedir ), yalniz deginilmesi gereken nokta sudur ki bu islem yapilirken cv2, pillow ve en onemlisi pyautogui kullanilmistir. Bundan dolayi chrome calisirken ana ekranda olmasi, maximized window'da bulunmasi ve bilgisayarda herhangi bir baska islem yapilmamasi sarttir. Bu yuzden dolayi videoda da belirttigim gibi sanal bir makine de bu projeyi kullanmayi oneriyorum.
 - G2G'ye yukle fonksiyonu MySQL veri tabaninda bulunan verilerin "isUploaded" kolon degeri 0 olan ilanlari ve verilerini ceker, sonrasinda G2G'ye yukler. Eger G2G web sitesinde herhangi bir hesaba giris yapilmamis ise 70 Saniyelik bir countdown baslar ve giris yapmaniz beklenir, bu giris islemi tek seferliktir.
 - Ilanlar satilmis mi kontrol et fonksiyonu yalnizca satilmis ilanlar icin degil, degistirilmis yada bozulmus, kaldirilmis ilanlar icinde mevcuttur. Kisaca mevcut olmayan her ilani kaldirmaniza olanak saglar. MySQL Veri tabanindan tum urunlerin url'leri ve ayni url'e bagli urun ID'leri cagrilir. Eger Gamermarkt url'i error sayfasiyla bizi karsilarsa,  yada ana sayfaya yonlendirilirsek yeni bir sekmede G2G acilir, urunun ID'si aranir. ID Arama algoritmasina bagli olarak basliklarda ID belirtmek ve ID'lerden once ayirici bir emoji belirtmek zorunludur. Eger birden fazla sonuc bulunursa ( ki cokca yasanan bir durumdur cunku 80 ID'li bir ilan G2G'de aratildigi zaman 800'ler 8000'ler hatta 80.000 ID'li ilanlarda gelmektedir.) otomatik olarak son sayfanin en son asagisina iner, ki bu bizim tam olarak istedigimiz ilan olarak nitelendirilebilir. Ilan G2G'de deactive konumuna getirilir ve MySQL veri tabanindan kaldirilir.  Eger herhangi bir sonuc gelmezse ilan MySQL Veri tabanindan kaldirilir ve konsolda bu durum belirtilir.
+
+------------
+#### Iletisim
+
+Discord : kmdev#3277
+
+------------
+#### Fiyatlandirma
+
+Programin guncel haftalik ucreti 100 TL'dir. Herhangi bir fikriniz yada farkli bir odeme yonteminiz var ise "Bize bir indirim yaparsin ya ;)" demeden istediginiz gibi belirtebilirsiniz.  Herhangi bir bug, hata bulunmasi karsiliginda +3 Gun lisansa eklenecektir.
