@@ -9,7 +9,7 @@ Python gibi acik kaynakli bir yazilim dilinde lisans anahtarli ve musteriye hizm
 Asagida bulunan Youtube videosunda programin tamaminin detayli aciklamasini ve anlatimini bulabilirsiniz, yine de vakti olmayanlar icin burada da ustun koru bir anlatim yapacagim.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_zK45wOoUIhq
-" target="_blank"><img src="http://img.youtube.com/vi/Y_zK45wOoUIhq/0.jpg" 
+" target="_blank"><img src="https://i.hizliresim.com/b2unlzn.jpg" 
 alt="YouTube Link" width="240" height="180" border="10" /></a>
 
 
