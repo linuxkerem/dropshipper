@@ -10,7 +10,7 @@ Asagida bulunan Youtube videosunda programin tamaminin detayli aciklamasini ve a
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_zK45wOoUIhq
 " target="_blank"><img src="https://i.hizliresim.com/b2unlzn.jpg" 
-alt="YouTube Link" width="500" height="281" /></a>
+alt="YouTube Link" width="450" height="281" /></a>
 
 
 ------------
