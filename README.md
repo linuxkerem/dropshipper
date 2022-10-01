@@ -10,14 +10,14 @@ Asagida bulunan Youtube videosunda programin tamaminin detayli aciklamasini ve a
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_zK45wOoUIhq
 " target="_blank"><img src="https://i.hizliresim.com/b2unlzn.jpg" 
-alt="YouTube Link" width="240" height="180" border="10" /></a>
+alt="YouTube Link" width="400" height="225" border="10" /></a>
 
 
 ------------
 #### Ozellikler
 Projenin arayuzunun bir kopyasini asagida gorebilirsiniz. Arayuzde bulunan ayarlari kaydet ve yukle butonlari adi ustunde arayuzde yazilan tercihlerin hatirlanmasi icin eklenmistir.
 
-<img src="https://i.hizliresim.com/dw8re4c.png" width="400" height="250" />
+<img src="https://i.hizliresim.com/dw8re4c.png" width="400" height="225" />
 
 Kisaca islevlerinden bahsetmek gerekirse;
 - Veritabani icin MySQL Veritabani kullanilmistir. ( Veritabani dizayni pek ic acici degil. )
