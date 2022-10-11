@@ -45,4 +45,4 @@ Discord : kmdev#3277
 ------------
 #### Fiyatlandirma
 
-Programin guncel haftalik ucreti 100 TL'dir. Herhangi bir fikriniz yada farkli bir odeme yonteminiz var ise "Bize bir indirim yaparsin ya ;)" demeden istediginiz gibi belirtebilirsiniz.  Herhangi bir bug, hata bulunmasi karsiliginda +3 Gun lisansa eklenecektir.
+Programin guncel haftalik ucreti 250 TL'dir. Herhangi bir fikriniz yada farkli bir odeme yonteminiz var ise "Bize bir indirim yaparsin ya ;)" demeden istediginiz gibi belirtebilirsiniz.  Herhangi bir bug, hata bulunmasi karsiliginda +3 Gun lisansa eklenecektir.
