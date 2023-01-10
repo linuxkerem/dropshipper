@@ -1,10 +1,7 @@
 ## Automate Dropshipping 
-### Eldorado Guncellemesi Geldi !!
+### PlayerAuctions Guncellemesi Geldi !!
 -------------------------------------
-Gamermarkt web sitesi uzeirnde satisa cikarilmis olan Valorant ve Leauge of Legends hesaplarinin verilerini ve fotograflarini scrape edip global hesap satis siteleri olan G2G ve Eldorado'ya ilanlari yuklemenize olanak saglayan Python programi.
-
-### Guvenlik
-Python gibi acik kaynakli bir yazilim dilinde lisans anahtarli ve musteriye hizmet eden boyle bir proje yapmak ne kadar etik dusunmek size kalmis, ancak boyle buyuk bir projenin kaynak kodunu paylasmak istemedigim, riske atmak istemedigim icin satin alimlar disinda herhangi bir paylasimda bulunmama karari aldim. Eger herhangi bir sekilde kaynak kodunu koruma yolunu bildigini dusunen, aklinda bir fikir olan var ise memnuniyet ile benimle iletisime gecebilir. O zamana kadar yalnizca satin alimlarda kurulum sonrasinda kaynak kodlari obfuscate edilerek iletilmektedir.  ( Cython, pyinstaller, py2exe gibi turlu yollar test edildi, aradigim yol daha cok kaynak kodunu bir cloud'dan getirebilmek. )
+Gamermarkt web sitesi uzeirnde satisa cikarilmis olan Valorant ve Leauge of Legends hesaplarinin verilerini ve fotograflarini scrape edip global hesap satis siteleri olan G2G ve PlayerAuctions'ya ilanlari yuklemenize olanak saglayan Python programi.
 
 ------------
 ### Video
