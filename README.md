@@ -46,6 +46,8 @@ Discord : kmdev#3277
 
 ------------
 #### Fiyatlandirma
-Leauge of Legends G2G Haftalik 150 - Aylik 500 <br>
-Valorant G2G Haftalik 150 - Aylik 500 <br>
-Valorant Eldorado Haftalik 150 - Aylik 500
+Leauge of Legends G2G Haftalik 400 - Aylik 1250 <br>
+Valorant G2G Haftalik 400 - Aylik 1250 <br>
+( Ilk Ay'a Ozel Valorant G2G + Leauge of Legends G2G = 2200 )<br> 
+Valorant Eldorado Haftalik 200 - Aylik 700 <br>
+Valorant PlayerAuctions Haftalik 200 - Aylik 700
